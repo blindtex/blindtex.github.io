@@ -3,25 +3,26 @@
 permalink: /posts/:title/
 exclude: ['Rakefile', 'README.md', 'config.rb', "Gemfile", "Gemfile.lock", "vendor"]
 markdown: kramdown
-url: http://a11yproject.com
+url: http://blindtex.org
 
 # configuration required for some pages
 
-domain: a11yproject.com
-title: The A11Y Project
-description: A community-driven effort to make web accessibility easier.
-url: http://a11yproject.com
+domain: blindtex.org
+title: BlindTex
+description: Herramientas de accesibilidad de LaTex, especializada para personas invidentes.
+url: http://blindtex.org
 avatar: /img/avatar.png
-author: Dave Rupert
-email: dave@paravelinc.com
+author: BlindTex Team
+email:
+github_project: https://github.com/blindtex/blindtex
 
 # configuration for ehancements, uncomment to enable
 
-feedburner:
-  id: SimpleA11Y
+#feedburner:
+#  id: SimpleA11Y
 
 google_analytics:
-  account: UA-2419836-9
+  account: UA-115000681-1
 
 # github:
 #   username: ghusername
