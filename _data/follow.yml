@@ -1,0 +1,9 @@
+- category: People
+  section-id: people
+  links:
+  - url: https://twitter.com/USERNAME
+    username: "USERNAME"
+    name: "USER NAME"
+  - url: https://twitter.com/USERNAME
+    username: "USERNAME"
+    name: "USER NAME"

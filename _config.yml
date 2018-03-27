@@ -1,1 +1,42 @@
 theme: jekyll-theme-slate
+# standard jekyll configuration
+
+permalink: /posts/:title/
+exclude: ['Rakefile', 'README.md', 'config.rb', "Gemfile", "Gemfile.lock", "vendor"]
+markdown: kramdown
+url: http://blindtex.org
+
+# configuration required for some pages
+
+domain: blindtex.org
+title: BlindTex
+description: Herramientas de accesibilidad de LaTex, especializada para personas invidentes.
+url: http://blindtex.org
+avatar: /img/avatar.png
+author: BlindTex Team
+email:
+github_project: https://github.com/blindtex/blindtex
+
+# configuration for ehancements, uncomment to enable
+
+#feedburner:
+#  id: SimpleA11Y
+
+google_analytics:
+  account: UA-115000681-1
+
+# github:
+#   username: ghusername
+
+# disqus:
+#   id: disqusid
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+feed:
+  path: atom.xml
+
+sass:
+  style: :compressed
