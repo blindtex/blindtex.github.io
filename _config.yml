@@ -4,7 +4,7 @@ theme: jekyll-theme-slate
 permalink: /posts/:title/
 exclude: ['Rakefile', 'README.md', 'config.rb', "Gemfile", "Gemfile.lock", "vendor"]
 markdown: kramdown
-#url: maldicionchina.github.io/dev-blindtex.github.io/
+url: http://maldicionchina.github.io
 
 # configuration required for some pages
 
