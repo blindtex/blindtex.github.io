@@ -4,11 +4,11 @@ theme: jekyll-theme-slate
 permalink: /posts/:title/
 exclude: ['Rakefile', 'README.md', 'config.rb', "Gemfile", "Gemfile.lock", "vendor"]
 markdown: kramdown
-url: maldicionchina.github.io/dev-blindtex.github.io/
+#url: maldicionchina.github.io/dev-blindtex.github.io/
 
 # configuration required for some pages
 
-domain: maldicionchina.github.io/dev-blindtex.github.io/
+#domain: maldicionchina.github.io/dev-blindtex.github.io/
 title: BlindTex
 description: Herramientas de accesibilidad de LaTex, especializada para personas invidentes.
 baseurl: "/dev-blindtex.github.io"
@@ -19,17 +19,8 @@ github_project: https://github.com/blindtex/blindtex
 
 # configuration for ehancements, uncomment to enable
 
-#feedburner:
-#  id: SimpleA11Y
-
 google_analytics:
   account: UA-115000681-1
-
-# github:
-#   username: ghusername
-
-# disqus:
-#   id: disqusid
 
 plugins:
   - jekyll-sitemap
