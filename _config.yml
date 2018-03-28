@@ -11,7 +11,7 @@ url: http://maldicionchina.github.io
 #domain: maldicionchina.github.io/dev-blindtex.github.io/
 title: BlindTex
 description: Herramientas de accesibilidad de LaTex, especializada para personas invidentes.
-baseurl: "/dev-blindtex.github.io"
+baseurl: "https://maldicionchina.github.io/dev-blindtex.github.io"
 avatar: /img/avatar.png
 author: BlindTex Team
 email:
