@@ -4,14 +4,14 @@ theme: jekyll-theme-slate
 permalink: /posts/:title/
 exclude: ['Rakefile', 'README.md', 'config.rb', "Gemfile", "Gemfile.lock", "vendor"]
 markdown: kramdown
-url: http://maldicionchina.github.io
+#baseurl: "/dev-blindtex.github.io"
+#url: http://maldicionchina.github.io
 
 # configuration required for some pages
 
 #domain: maldicionchina.github.io/dev-blindtex.github.io/
 title: BlindTex
 description: Herramientas de accesibilidad de LaTex, especializada para personas invidentes.
-baseurl: "/dev-blindtex.github.io"
 avatar: /img/avatar.png
 author: BlindTex Team
 email:
