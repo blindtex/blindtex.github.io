@@ -1,0 +1,17 @@
+- event-category: Upcoming
+  section-id: upcoming
+  events:
+    - title: "TITTLE"
+      description: "Description"
+      url: "URL"
+      type: "Regional"
+      date: 2018-05-08
+      address: "XXXXXXXXXXXXXXXX"
+      map: "https://goo.gl/maps/to"
+    - title: "TITTLE"
+      description: "Description"
+      url: "URL"
+      type: "Regional"
+      date: 2018-05-08
+      address: "XXXXXXXXXXXXXXXX"
+      map: "https://goo.gl/maps/to"
