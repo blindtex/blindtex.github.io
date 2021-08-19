@@ -4,13 +4,13 @@ title: App BlindTex
 description: Descripción Aplicación Blindtex
 permalink: app_blindtex.html
 ---
-Puedes probar la conversión de ecuaciones en formato LaTeX a languaje natural en nuestra apliación web: [app.blindtex.org](http://app.blindtex.org)
+Puedes probar la conversión de ecuaciones en formato LaTeX a lenguaje natural en nuestra aplicación web: [app.blindtex.org](http://app.blindtex.org)
 
-En la página encontras dos campos de texto, en el primero puedes ingresar ecuaciones en formato LaTeX, como el ejemplo que se encuentra a continuación:
+En la página encuentras dos campos de texto. En el primero puedes ingresar ecuaciones en formato LaTeX, como el ejemplo que se encuentra a continuación:
 ```
 \sqrt{a^{x-1}+3}
 ```
-Luego presionas en el boton 'convertir', obtendras un resultado como el siguiente.
+Luego presionas en el botón 'convertir', y obtendrás un resultado como el siguiente:
 ```
 raíz cuadrada de
 a súper
