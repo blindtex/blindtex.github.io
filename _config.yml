@@ -5,13 +5,14 @@ permalink: /posts/:title/
 exclude: ['Rakefile', 'README.md', 'config.rb', "Gemfile", "Gemfile.lock", "vendor"]
 markdown: kramdown
 
-#domain: maldicionchina.github.io/dev-blindtex.github.io/
+domain: blindtex.org
 title: BlindTex
 description: Herramientas de accesibilidad de LaTex, especializada para personas invidentes.
 avatar: /img/avatar.png
 author: BlindTex Team
 email:
 github_project: https://github.com/blindtex/blindtex
+api_app: http://127.0.0.1
 
 # configuration for ehancements, uncomment to enable
 

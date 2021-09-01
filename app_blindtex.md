@@ -2,9 +2,9 @@
 layout: post
 title: App BlindTex
 description: Descripción Aplicación Blindtex
-permalink: app_blindtex.html
+permalink: how_to.html
 ---
-Puedes probar la conversión de ecuaciones en formato LaTeX a lenguaje natural en nuestra aplicación web: [app.blindtex.org](http://app.blindtex.org)
+Puedes probar la conversión de ecuaciones en formato LaTeX a lenguaje natural en nuestra aplicación web: [app](/app)
 
 En la página encuentras dos campos de texto. En el primero puedes ingresar ecuaciones en formato LaTeX, como el ejemplo que se encuentra a continuación:
 ```

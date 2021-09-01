@@ -1,9 +1,11 @@
+---
+---
 function clickHandleLatexToText(event) {
     var inputVal = document.getElementById("formulaInpunt").value;
   
     var myHeaders = new Headers();
     myHeaders.append("Content-Type", "application/json");
-    myHeaders.append('Access-Control-Allow-Origin', 'http://127.0.0.1');
+    myHeaders.append('Access-Control-Allow-Origin', '*)');
     myHeaders.append('Access-Control-Allow-Credentials', 'true');
   
     var raw = JSON.stringify({
@@ -17,7 +19,7 @@ function clickHandleLatexToText(event) {
       redirect: 'follow'
     };
   
-    var fomulaOnText = fetch("http://127.0.0.1/readLatexExpression/", requestOptions)
+    var fomulaOnText = fetch("{{site.api_app}}/readLatexExpression/", requestOptions)
       .then(response => response.json())
       .then(result => updateFormulaOutput(result))
       .catch(error => console.log('error', error));
