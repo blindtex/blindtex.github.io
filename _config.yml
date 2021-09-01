@@ -12,7 +12,7 @@ avatar: /img/avatar.png
 author: BlindTex Team
 email:
 github_project: https://github.com/blindtex/blindtex
-api_app: https://blindtex-app.herokuapp.com/
+api_app: https://blindtex-app.herokuapp.com
 
 # configuration for ehancements, uncomment to enable
 
